@@ -1,0 +1,16 @@
+javac ArraysMain.java
+javac BazaTablicowa.java
+javac ComplexMain.java
+javac Dziedzic.java
+javac Hello.java
+javac Inputs.java
+javac JavaIteratorMain.java
+javac Konwersje.java
+javac LinkedListMain.java
+javac Pakiety.java
+javac Pliki.java
+javac SortowanieMain.java
+javac StackMain.java
+javac Static.java
+javac VectorMain.java
+javac Wybor.java

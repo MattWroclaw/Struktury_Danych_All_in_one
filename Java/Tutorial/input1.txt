@@ -1,0 +1,5 @@
+PLIK_INPUT_1
+4 @
+ala
+ma
+kota

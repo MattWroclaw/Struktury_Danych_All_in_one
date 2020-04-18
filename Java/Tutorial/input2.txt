@@ -1,0 +1,13 @@
+PLIK_INPUT_2
+33
+Madzia
+ma
+psa
+imieniem
+Figo
+a
+ten
+nie
+lubi
+kotów
+
